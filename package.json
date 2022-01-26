@@ -2,7 +2,7 @@
   "name": "manzana-app",
   "version": "0.0.1",
   "description": "Aplicacion para prueba tecnica de manzana verde",
-  "productName": "Quasar App",
+  "productName": "Manzana-app",
   "author": "Alexander <undergrounder16@gmail.com>",
   "private": true,
   "scripts": {
